@@ -4,8 +4,10 @@ _	MAPEANDO VIA REDE
 
 User Configuration > Preferences > Windows Settings > Drive Maps
 
-Arquivo .bat com essa linha: 
+Arquivo .bat exemplos: 
 
 	net use x: \\srv\shared
 	
-	net use p: \\srv-files\shared /user:Tecnologia P@ssword
+	net use p: \\srv-files\shared /user:User P@ssword
+
+	net use x: \\server\shared /user:User P@ssword /P:yes
