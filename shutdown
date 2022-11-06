@@ -1,7 +1,3 @@
-# Reiniciando o período de avaliação: 
-
-	slmgr.vbs -rearm
-
 # Reiniciar o computador imediatamente: 
 
 	shutdown /r /t /0
