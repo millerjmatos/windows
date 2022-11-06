@@ -1,0 +1,11 @@
+------------------------------------------------------------
+_	PERMITINDO ACESSO REMOTO RDS
+------------------------------------------------------------
+
+Computer Configuration > Polices > Windows Settings > Security Settings > Local Policy > User Rights Assignment > Allow log on through Remote Desktop Services
+
+	Define these policy settings: Domain Admins; Domain Users
+
+	User Properties > Member Of: Remote Desktop Users
+
+	Propriedades do Sistema > Remoto > Selecionar Usuários: Domain Admins; Domain Users

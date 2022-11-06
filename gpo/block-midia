@@ -1,0 +1,5 @@
+------------------------------------------------------------
+_	BLOQUEANDO QUALQUER MÍDIA EXTERNA
+------------------------------------------------------------
+
+Computer Configuration > Polices > Administrative Templates > System > Removable Storage Access > All Removable Storage Access

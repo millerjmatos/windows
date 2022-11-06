@@ -1,0 +1,7 @@
+------------------------------------------------------------
+_	INTEGRAÇÃO COM AD (MODO TRANSPARENTE)
+------------------------------------------------------------
+
+Computer Configuration > Polices > Windows Settings > Security Settings > Public Key Policies > Trusted Root Certification Authorities
+
+			@@@ Importar a CA. @@@

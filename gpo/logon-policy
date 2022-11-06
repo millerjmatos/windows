@@ -1,0 +1,15 @@
+------------------------------------------------------------
+_	REGRAS DE AUTENTICAÇÃO
+------------------------------------------------------------
+
+Computer Configuration > Policies > Windows Settings > Security Settings > Account Policies > Password Policy
+
+	Enforce password history: 3
+
+	Maximum password age: 120
+
+	Minimum password age: 1
+
+	Minimum password length: 8
+
+	Password must meet complexity requirements: Enabled

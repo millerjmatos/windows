@@ -1,0 +1,3 @@
+# Mapeando unidade de rede: 
+
+	net use x: \\server\shared /user:User P@ssword /P:yes

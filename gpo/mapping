@@ -1,0 +1,11 @@
+------------------------------------------------------------
+_	MAPEANDO VIA REDE
+------------------------------------------------------------
+
+User Configuration > Preferences > Windows Settings > Drive Maps
+
+Arquivo .bat com essa linha: 
+
+	net use x: \\srv\shared
+	
+	net use p: \\srv-files\shared /user:Tecnologia P@ssword

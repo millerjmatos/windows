@@ -1,0 +1,3 @@
+# Atualizando GPO: 
+	
+	gpupdate /force ; gpresult /r
