@@ -1,31 +1,39 @@
-# Agendador de Tarefas: 
+Atalho Executar:
+
+    TECLA WINDOWS + R
+
+Agendador de Tarefas: 
 
     taskschd.msc
 
-# Contas de Usuário: 
+Contas de Usuário: 
 
     control userpasswords2
 
-# Editor do Registro: 
+Editor do Registro: 
 
     regedit
 
-# Gerenciador de Certificados: 
+Gerenciador de Certificados: 
 
     certmgr.msc
 
-# Painel de Controle: 
+Painel de Controle: 
 
     control panel
 
-# Utilitário de Configuração do Sistema: 
+Utilitário de Configuração do Sistema: 
 
     msconfig
 
-# Windows Defender Firewall: 
+Windows Defender Firewall: 
 
     wf.msc
 
-# Conexão de Área de Trabalho Remota: 
+Conexão de Área de Trabalho Remota: 
 
     mstsc
+
+Remoção de malware:
+
+    MRT
